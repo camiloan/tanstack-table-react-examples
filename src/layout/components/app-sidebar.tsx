@@ -138,8 +138,8 @@ const data = {
     ],
     projects: [
         {
-            name: "Design Engineering",
-            url: "#",
+            name: "Editable Data",
+            url: "/main/editable-data",
             icon: Frame,
         },
         {
